@@ -1,0 +1,5 @@
+alexa_rank_admin_report.content:
+  title: 'Alexa global website ranking'
+  route_name: alexa_rank_admin_report.content
+  parent: system.admin_reports
+  description: 'View your site''s position on the Alexa global rankings.'

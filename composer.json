@@ -1,0 +1,13 @@
+{
+  "name": "drupal/alexa_rank_admin_report",
+  "description": "Displays your site's global Alexa ranking in Administration >> Reports",
+  "COMMENTED-OUT-require": {
+    "drupal/alexa_rank_service": ">=1.0.0"
+  },
+  "autoload": {
+    "psr-4": {
+      "alexa_rank_admin_report\\": "src/"
+    }
+  },
+  "license": "BSD-3-Clause"
+}

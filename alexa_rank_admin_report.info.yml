@@ -1,0 +1,5 @@
+name: Alexa Rank Report
+description: Displays your site's global Alexa ranking in Administration >> Reports
+type: module
+core: 8.x
+package: Alexa Rank
