@@ -4,5 +4,4 @@ alexa_rank_admin_report.content:
     _controller: '\Drupal\alexa_rank_admin_report\Controller\ReportController::content'
     _title: 'Alexa Global Ranking'
   requirements:
-    _module_dependencies: 'alexa_rank_admin_report'
     _permission: 'access site reports'
