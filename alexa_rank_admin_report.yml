@@ -1,4 +1,0 @@
-services:
-  alexa_rank_admin_report.report_controller:
-    class: Drupal\alexa_rank_admin_report\Controller\ReportController
-    arguments: ['@alexa_rank']
